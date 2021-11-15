@@ -1,0 +1,279 @@
+
+INFO: Spawning platform               >>/Users/migecha/Projects/Games/Jumper/source/Game.cpp:40
+INFO: Platform added to vector in position "0"               >>/Users/migecha/Projects/Games/Jumper/source/Game.cpp:43
+INFO: Platform removed from vector in position 0               >>/Users/migecha/Projects/Games/Jumper/source/Game.cpp:54
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+INFO: Jumping with velocity: 50               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:17
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 50               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 49               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 48               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 47               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 46               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 45               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 44               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 43               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 42               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 41               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 40               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 38               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 36               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 34               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 32               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 30               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 28               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 26               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 24               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 22               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 20               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 17               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 14               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 11               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 8               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 5               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 2               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 0               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -2               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -4               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -7               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -10               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -13               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -16               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -19               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -22               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -25               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -28               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -31               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -34               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -38               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -42               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -46               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -50               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -54               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -58               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -62               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -66               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -70               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -74               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -79               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+INFO: Jumping with velocity: 50               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:17
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 50               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 49               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 48               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 47               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 46               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 45               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 44               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 43               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 42               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 41               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 40               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 38               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 36               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 34               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 32               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 30               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 28               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 26               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 24               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 22               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 20               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 17               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 14               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 11               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 8               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 5               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 2               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 0               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -2               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -4               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -7               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -10               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -13               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -16               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -19               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -22               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -25               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -28               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -31               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -34               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -38               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -42               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -46               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -50               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -54               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -58               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -62               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -66               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -70               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -74               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -79               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+INFO: Jumping with velocity: 50               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:17
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 50               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 49               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 48               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 47               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 46               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 45               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 44               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 43               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 42               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 41               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 40               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 38               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 36               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 34               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 32               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 30               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 28               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 26               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 24               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 22               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 20               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 17               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 14               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 11               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 8               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 5               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 2               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: 0               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -2               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -4               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -7               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+INFO: W is pressed               >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:39
+ERR: Failed to jump with velocity: -10               >>/Users/migecha/Projects/Games/Jumper/source/Objects.cpp:20
+ERR:                >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:32
