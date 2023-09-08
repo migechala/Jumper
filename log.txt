@@ -1,4 +1,0 @@
-
-INFO: Spawning platform               >>/Users/migecha/Projects/Games/Jumper/source/Game.cpp:53
-INFO: Platform added to vector in position "0"               >>/Users/migecha/Projects/Games/Jumper/source/Game.cpp:56
-ERR:                >>/Users/migecha/Projects/Games/Jumper/source/main.cpp:37
