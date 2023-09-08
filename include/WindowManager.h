@@ -4,7 +4,7 @@
 
 #ifndef WINDOWMANAGER_H
 #define WINDOWMANAGER_H
-#include <SDL2/SDL.h>
+#include <SDL.h>
 #include <string>
 #include <memory>
 #include "Objects.h"
@@ -39,9 +39,8 @@ class WindowManager
     static type::Vector2i getMonitorSize();
 
 public:
-    
     int frameCount;
-    
+
     SDL_Renderer *getRenderer();
 
     type::Vector2i getSize();
@@ -49,7 +48,7 @@ public:
     void setBackground(SDL_Texture *background);
 
     int draw(SDL_Texture *txt, const SDL_Rect *src, const SDL_Rect *dst);
-    int draw(ObjectBase* obj);
+    int draw(ObjectBase *obj);
 
     bool update();
 
@@ -58,4 +57,4 @@ public:
     ~WindowManager();
 };
 
-#endif //BOXING2D_2_WINDOWMANAGER_H
+#endif // BOXING2D_2_WINDOWMANAGER_H

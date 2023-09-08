@@ -5,11 +5,12 @@
 #include "WindowManager.h"
 #include "Logger.h"
 #include "Types.h"
-#include <SDL2/SDL.h>
+#include <SDL.h>
 #include <iostream>
 
 WindowManager::WindowManager(const std::string &windowName, type::Vector2i p_pos, Uint32 p_flag) : m_size(
-        getMonitorSize()), frameCount(0)
+                                                                                                       getMonitorSize()),
+                                                                                                   frameCount(0)
 {
     SDL_Log("Created Window");
     m_window.reset(SDL_CreateWindow(windowName.c_str(), p_pos.x, p_pos.y, m_size.x, m_size.y, p_flag));
@@ -50,8 +51,9 @@ int WindowManager::draw(SDL_Texture *txt, const SDL_Rect *src, const SDL_Rect *d
 {
     return SDL_RenderCopy(getRenderer(), txt, src, dst);
 }
-int WindowManager::draw(ObjectBase* obj){
-    SDL_Color oldColor; 
+int WindowManager::draw(ObjectBase *obj)
+{
+    SDL_Color oldColor;
     SDL_GetRenderDrawColor(getRenderer(), &oldColor.r, &oldColor.g, &oldColor.b, &oldColor.a);
     SDL_SetRenderDrawColor(getRenderer(), obj->color.r, obj->color.g, obj->color.b, obj->color.a);
     int ret = SDL_RenderFillRect(getRenderer(), &obj->dst);
@@ -90,4 +92,3 @@ WindowManager::~WindowManager()
 {
     SDL_DestroyTexture(m_bkg);
 }
-
