@@ -1,2 +1,61 @@
-log.txt
-build/
+# Compiled Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+*.app
+
+# CMake build directory
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+Testing/
+CTestTestfile.cmake
+
+# CMake generated Makefiles
+Makefile
+Makefile.in
+
+# Compiled C++ files
+*.gch
+*.pch
+
+# Dependency files
+CMakeLists.txt.user
+CMakeListsUser.txt
+
+# Visual Studio Code specific files
+.vscode/
+
+# IDE project files
+.idea/
+*.suo
+*.user
+*.sln
+*.suo
+*.userprefs
+*.sdf
+*.opensdf
+
+# Compiled Swift modules
+*.swiftdoc
+*.swiftmodule
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Ignore everything in build/ except .gitignore
+build/*
+!build/.gitignore
