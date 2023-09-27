@@ -21,6 +21,7 @@ namespace type
         void operator+=(const Vector2i &p_change);
 
         Vector2i operator/(const Vector2i &p_change) const;
+        Vector2i operator/(const int &p_change) const;
         Vector2i operator*(const Vector2i &p_change) const;
     };
 

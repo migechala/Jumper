@@ -9,15 +9,17 @@ class Game
     Player *player;
     WindowManager *window;
     double velModifier;
+    int platformDistance;
+    int platformIndex;
     int updateGravity(ObjectBase *object);
-    int updateMovement();
-    void removePlatform();
+    int genrateRandom(int min, int max);
+    void updatePlatforms();
+    int checkLose(ObjectBase *object);
 
 public:
     Game(WindowManager *window, Player *player);
-    type::Vector2i getRelativePositionFromObject(ObjectBase *object);
-    void setRelativePositionFromObject(ObjectBase *object, type::Vector2i newPos);
     int spawnPlatform();
+    void spawnPlatform(type::Vector2i position, type::Vector2i size);
     int update();
     void updateObjectLocation(ObjectBase *object);
     void printPlatform();

@@ -72,7 +72,10 @@
         "__verbose_abort": "cpp",
         "variant": "cpp",
         "compare": "cpp",
-        "concepts": "cpp"
+        "concepts": "cpp",
+        "set": "cpp",
+        "numeric": "cpp",
+        "random": "cpp"
     },
     "C_Cpp.default.includePath": [],
     "C_Cpp.errorSquiggles": "Enabled"

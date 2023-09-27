@@ -54,11 +54,31 @@ int WindowManager::draw(SDL_Texture *txt, const SDL_Rect *src, const SDL_Rect *d
 int WindowManager::draw(ObjectBase *obj)
 {
     SDL_Color oldColor;
+    type::Vector2i pos = getRealPositionFromObject(obj);
+    obj->dst.x = pos.x;
+    obj->dst.y = pos.y;
+
     SDL_GetRenderDrawColor(getRenderer(), &oldColor.r, &oldColor.g, &oldColor.b, &oldColor.a);
     SDL_SetRenderDrawColor(getRenderer(), obj->color.r, obj->color.g, obj->color.b, obj->color.a);
     int ret = SDL_RenderFillRect(getRenderer(), &obj->dst);
     SDL_SetRenderDrawColor(getRenderer(), oldColor.r, oldColor.g, oldColor.b, oldColor.a);
     return ret;
+}
+
+type::Vector2i WindowManager::getRelativePositionFromObject(ObjectBase *object)
+{
+    return getSize() - (object->position + object->size);
+}
+
+type::Vector2i WindowManager::getRealPositionFromObject(ObjectBase *object)
+{
+    return {object->position.x, getSize().y - object->position.y - object->size.y};
+}
+
+void WindowManager::setPosition(ObjectBase *object, type::Vector2i newPos)
+{
+    object->position = newPos;
+    // setRelativePositionFromObject(object, newPos);
 }
 
 bool WindowManager::update()
