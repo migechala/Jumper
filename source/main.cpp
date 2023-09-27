@@ -29,17 +29,33 @@ int main()
     game->spawnPlatform();
     game->spawnPlatform({player->position.x, player->position.y - player->size.y}, {100, 20});
     bool done = false;
+    bool died = false;
     while (!done)
     {
         Uint32 start = SDL_GetPerformanceCounter();
         // Do loops
         CHECK(windowManager->update(), false, done); // false because true will exit
-        windowManager->draw(player);
-
-        if (game->update() == -1)
+        if (!died && game->update() == 0)
         {
+            windowManager->draw(player);
+            game->updateObjectLocation(player);
         }
-        game->updateObjectLocation(player);
+        else
+        {
+            died = true;
+            player->removeControl();
+            KeyboardManager::getInstance()->addListener(
+                SDL_SCANCODE_R, [&]
+                {
+                    if(died){
+                    player = new Player(windowManager->getSize() / 3, type::Vector2i(100, 100), {100, 0, 100}, windowManager->getSize().x);
+                    game = new Game(windowManager, player); 
+                    game->spawnPlatform();
+                    game->spawnPlatform({player->position.x, player->position.y - player->size.y}, {100, 20});
+                    died = false; 
+                    } },
+                false);
+        }
 
         KeyboardManager::getInstance()->update();
         // player->update();

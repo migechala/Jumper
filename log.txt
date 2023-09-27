@@ -1,3 +1,13 @@
 
-INFO: Spawning platform               >>/Users/migecha/Projects/Games/Jumper/source/Game.cpp:72
-INFO: Platform added to vector in position "8"               >>/Users/migecha/Projects/Games/Jumper/source/Game.cpp:87
+INFO: Spawning platform               >>/Users/migecha/Projects/Games/Jumper/source/Game.cpp:73
+INFO: Platform added to vector in position "8"               >>/Users/migecha/Projects/Games/Jumper/source/Game.cpp:88
+INFO: Spawning platform               >>/Users/migecha/Projects/Games/Jumper/source/Game.cpp:73
+INFO: Platform added to vector in position "8"               >>/Users/migecha/Projects/Games/Jumper/source/Game.cpp:88
+INFO: Spawning platform               >>/Users/migecha/Projects/Games/Jumper/source/Game.cpp:73
+INFO: Platform added to vector in position "8"               >>/Users/migecha/Projects/Games/Jumper/source/Game.cpp:88
+INFO: Spawning platform               >>/Users/migecha/Projects/Games/Jumper/source/Game.cpp:73
+INFO: Platform added to vector in position "8"               >>/Users/migecha/Projects/Games/Jumper/source/Game.cpp:88
+INFO: Spawning platform               >>/Users/migecha/Projects/Games/Jumper/source/Game.cpp:73
+INFO: Platform added to vector in position "8"               >>/Users/migecha/Projects/Games/Jumper/source/Game.cpp:88
+INFO: Spawning platform               >>/Users/migecha/Projects/Games/Jumper/source/Game.cpp:73
+INFO: Platform added to vector in position "8"               >>/Users/migecha/Projects/Games/Jumper/source/Game.cpp:88

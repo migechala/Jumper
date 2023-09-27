@@ -8,6 +8,19 @@ ObjectBase::ObjectBase(type::Vector2i position, type::Vector2i size, SDL_Color c
 
 Player::Player(type::Vector2i position, type::Vector2i size, SDL_Color color, int maxWidth) : ObjectBase(position, size, color), jumpHeight(25), maxWidth(maxWidth)
 {
+    enableControl();
+}
+
+void Player::removeControl()
+{
+    KeyboardManager::getInstance()->removeListener(SDL_SCANCODE_W);
+    KeyboardManager::getInstance()->removeListener(SDL_SCANCODE_A);
+    KeyboardManager::getInstance()->removeListener(SDL_SCANCODE_S);
+    KeyboardManager::getInstance()->removeListener(SDL_SCANCODE_D);
+}
+
+void Player::enableControl()
+{
     KeyboardManager::getInstance()->addListener(
         SDL_SCANCODE_A, [this]()
         { left(); },

@@ -22,6 +22,8 @@ class Player : public ObjectBase
 
 public:
     Player(type::Vector2i position, type::Vector2i size, SDL_Color color, int maxWidth);
+    void removeControl();
+    void enableControl();
     int update();
     int jump();
 };
