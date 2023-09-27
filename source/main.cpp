@@ -22,29 +22,27 @@ int main()
     {
         LOG_ERR("To string returns wrong value, should be 100, returns " + logTest);
     }
-    WindowManager *windowManager = new WindowManager("Jumper", type::Vector2i(SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED), SDL_WINDOW_SHOWN | SDL_WINDOW_FULLSCREEN);
+    WindowManager *windowManager = new WindowManager("Jumper", type::Vector2i(SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED), SDL_WINDOW_SHOWN | SDL_WINDOW_RESIZABLE);
     windowManager->setBackground(ResourceLoader::getInstance()->loadTexture("../assets/background/bkg_a.jpg", windowManager->getRenderer()));
-    Player *player = new Player(type::Vector2i(0, windowManager->getSize().y - 100), type::Vector2i(100, 100), {100, 0, 100});
-
+    Player *player = new Player(windowManager->getSize() / 3, type::Vector2i(100, 100), {100, 0, 100}, windowManager->getSize().x);
     Game *game = new Game(windowManager, player);
-
-    bool done = false;
     game->spawnPlatform();
+    game->spawnPlatform({player->position.x, player->position.y - player->size.y}, {100, 20});
+    bool done = false;
     while (!done)
     {
         Uint32 start = SDL_GetPerformanceCounter();
         // Do loops
         CHECK(windowManager->update(), false, done); // false because true will exit
+        windowManager->draw(player);
 
-        CHECK(windowManager->draw(player), 0, done);
-        game->update();
+        if (game->update() == -1)
+        {
+        }
         game->updateObjectLocation(player);
 
-        // if (KeyboardManager::getInstance()->isPressed(SDL_SCANCODE_W) || KeyboardManager::getInstance()->isPressed(SDL_SCANCODE_UP) || KeyboardManager::getInstance()->isPressed(SDL_SCANCODE_SPACE))
-        // {
-        //     player->jump();
-        // }
         KeyboardManager::getInstance()->update();
+        // player->update();
         // Limit fps
         Uint32 end = SDL_GetPerformanceCounter();
         float elapsedMS = (end - start) / (float)SDL_GetPerformanceFrequency() * 1000.0f;

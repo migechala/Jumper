@@ -5,7 +5,7 @@
             "name": "(lldb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/build/Debug/Boxing2D",
+            "program": "${workspaceFolder}/build/Jumper",
             "args": [],
             "stopAtEntry": true,
             "cwd": "${fileDirname}",

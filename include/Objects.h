@@ -14,13 +14,14 @@ struct ObjectBase
 
 class Player : public ObjectBase
 {
-    int jumpHeight, frameEnd;
+    int jumpHeight, frameEnd, maxWidth;
     void up();
+    void down();
     void left();
     void right();
 
 public:
-    Player(type::Vector2i position, type::Vector2i size, SDL_Color color);
+    Player(type::Vector2i position, type::Vector2i size, SDL_Color color, int maxWidth);
     int update();
     int jump();
 };
@@ -28,5 +29,5 @@ public:
 class Platform : public ObjectBase
 {
 public:
-    Platform(type::Vector2i position, type::Vector2i size, SDL_Color color);
+    Platform(type::Vector2i position, type::Vector2i size, SDL_Color color, int speed);
 };

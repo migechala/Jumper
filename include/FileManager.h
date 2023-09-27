@@ -2,8 +2,10 @@
 
 #include <vector>
 #include <string>
-class FileManager {
+class FileManager
+{
     static FileManager *m_instance;
+
 public:
     static FileManager *getInstance();
 

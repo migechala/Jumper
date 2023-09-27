@@ -37,6 +37,7 @@ class WindowManager
     bool hasQuit();
 
     static type::Vector2i getMonitorSize();
+    void setRelativePositionFromObject(ObjectBase *object, type::Vector2i newPos);
 
 public:
     int frameCount;
@@ -49,6 +50,11 @@ public:
 
     int draw(SDL_Texture *txt, const SDL_Rect *src, const SDL_Rect *dst);
     int draw(ObjectBase *obj);
+
+    type::Vector2i getRelativePositionFromObject(ObjectBase *object);
+    type::Vector2i getRealPositionFromObject(ObjectBase *object);
+
+    void setPosition(ObjectBase *object, type::Vector2i newPos);
 
     bool update();
 
